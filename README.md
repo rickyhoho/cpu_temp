@@ -6,7 +6,7 @@
 
 A plugin for [MCDReforged1.x](https://github.com/Fallen-Breath/MCDReforged) to check cpu temp regularly
 
-You have to install python module `daytime`, `psutil` and `apscheduler` to use cpu_temp
+You have to install python module <strong>`daytime`, `psutil` and `apscheduler`</strong> to use cpu_temp
 
 You can execute `pip install daytime psutil apscheduler` to install it
 
